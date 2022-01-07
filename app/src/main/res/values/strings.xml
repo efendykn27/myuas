@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Health Address</string>
+    <string name="title_activity_drawer2">drawerActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desk">health Address merupakan aplikasi berisi data
+        alamat dari pelayanan kesehatan masyarakat di kabupaten Tegal.
+        di aplikasi ini ada dua pelayanan kesehatan yaitu Puskesmas
+        dan Rumah Sakit</string>
+
+</resources>
